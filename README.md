@@ -1,2 +1,3 @@
-# cleaningdata
-Project1 Getting and cleaning data coursera
+# Project 1 for Gettind and Cleaning Data
+
+This repo containsthe analysis script and the Code Book
