@@ -12,7 +12,7 @@ WALKING_DOWNSTAIRS
 SITTING     
 STANDING,LAYING     
 
-[col 3:35]  Mean value for each activity and each subject  (double)
+[col 3:35]  Mean value for each activity and each subject  (double)    
  "tBodyAcc-mean()-X"           
  "tBodyAcc-mean()-Y"           
  "tBodyAcc-mean()-Z"          
