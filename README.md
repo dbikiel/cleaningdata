@@ -1,3 +1,3 @@
-# Project 1 for Gettind and Cleaning Data
+# Project 1 for Getting and Cleaning Data
 
-This repo containsthe analysis script and the Code Book
+This repo contains the analysis script and the Code Book
